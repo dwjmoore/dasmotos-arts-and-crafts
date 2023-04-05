@@ -33,3 +33,8 @@ h2 {
 .paint h2 {
 	background-color: skyblue;
 }
+
+span {
+	font-weight: bold;
+	color: blue;
+}
